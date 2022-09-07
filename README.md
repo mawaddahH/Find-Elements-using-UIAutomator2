@@ -346,3 +346,4 @@ https://user-images.githubusercontent.com/48597284/188779583-574bcf0d-c851-4293-
 ## References
 - [Android 'UIScrollable' swipe: Tricks and Tips](https://appium.io/docs/en/writing-running-appium/tutorial/swipe/android-tricks/)
 - [Android 'UIScrollable' swipe: Simple example](https://appium.io/docs/en/writing-running-appium/tutorial/swipe/android-simple/)
+- [UiSelector](https://developer.android.com/reference/androidx/test/uiautomator/UiSelector)
