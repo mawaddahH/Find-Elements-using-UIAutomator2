@@ -16,6 +16,7 @@ Assignment 1 W12D1 - SDA - Software QA Bootcamp
 	  - [STEP 5: Create java class then set the DesiredCapabilities](#step-5-create-java-class-then-set-the-desiredcapabilities)
 	  - [STEP 6: Detect Elements](#step-6-detect-elements)
 - [Output Screenshots](#output-screenshots)
+- [References](#references)
 
 ---
 # Question
@@ -338,8 +339,10 @@ element4.click();
 https://user-images.githubusercontent.com/48597284/188779583-574bcf0d-c851-4293-8c42-91d79ab133cb.mp4
 
 
-  
 </p>
 
+----
 
-
+## References
+- [Android 'UIScrollable' swipe: Tricks and Tips](https://appium.io/docs/en/writing-running-appium/tutorial/swipe/android-tricks/)
+- [Android 'UIScrollable' swipe: Simple example](https://appium.io/docs/en/writing-running-appium/tutorial/swipe/android-simple/)
