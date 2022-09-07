@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-07T05:52:12 AST" name="Default suite" finished-at="2022-09-07T05:53:16 AST" duration-ms="63833">
+    <groups>
+    </groups>
+    <test started-at="2022-09-07T05:52:12 AST" name="Default test" finished-at="2022-09-07T05:53:16 AST" duration-ms="63833">
+      <class name="ass1W12D1.FindElementsusingUIAutomator2.AppTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ass1W12D1.FindElementsusingUIAutomator2.AppTest@130d63be]" started-at="2022-09-07T05:51:50 AST" name="setUp" finished-at="2022-09-07T05:52:12 AST" duration-ms="21423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestUIAutomator2()[pri:1, instance:ass1W12D1.FindElementsusingUIAutomator2.AppTest@130d63be]" started-at="2022-09-07T05:52:12 AST" name="TestUIAutomator2" finished-at="2022-09-07T05:53:16 AST" duration-ms="63652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUIAutomator2 -->
+      </class> <!-- ass1W12D1.FindElementsusingUIAutomator2.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
